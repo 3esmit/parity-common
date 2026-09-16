@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog].
 
 ## [Unreleased]
 
+- Avoid deprecated primitive integer APIs in generated code while preserving the generated integer API.
+
 ## [0.10.1] - 2026-08-08
 - Fix trailing semicolon in expression macro bodies. [#980](https://github.com/paritytech/parity-common/pull/980)
 
